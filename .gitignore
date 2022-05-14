@@ -1,0 +1,5 @@
+/.idea
+/bin
+/pkg
+stable-store-replica?
+test-logfile?.txt
